@@ -63,6 +63,7 @@ while True:
     elif opcao == 8:
         funcoes.titulo("Finalizando")
         break
+    
 
 
 
